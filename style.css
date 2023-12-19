@@ -1,0 +1,13 @@
+.photo{
+    border: 6px solid;
+    border-radius: 50%;
+    color: #72767e;
+}
+
+.text{
+    color: #6b6e77;
+}
+
+.center{
+    text-align: center;
+}
